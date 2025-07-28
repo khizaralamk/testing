@@ -2,7 +2,7 @@ import  { useState } from 'react';
 import { FaGithub, FaXTwitter, FaLinkedin, FaInstagram } from 'react-icons/fa6';
 import VectorIcon from '../assets/icons/Vector.svg';
 
-export default function navBar() {
+export default function NavBar() {
   const [toggleOn, setToggleOn] = useState(false);
 
   return (
