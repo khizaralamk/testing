@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import  { useState } from 'react';
 import { FaGithub, FaXTwitter, FaLinkedin, FaInstagram } from 'react-icons/fa6';
 import VectorIcon from '../assets/icons/Vector.svg';
 
